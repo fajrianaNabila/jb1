@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">projectMobile</string>
+    <string name="nameEditText">Nama Mahasiswa</string>
+    <string name="buttonbutton">Button</string>
+    <string name="buttonTextView">Halo %1$s</string>
+
+    <string-array name="names">
+        <item>Fajriana Nabila</item>
+        <item>Nabila</item>
+        <item>Billa</item>
+    </string-array>
+</resources>
